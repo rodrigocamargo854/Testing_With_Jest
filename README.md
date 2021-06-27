@@ -19,50 +19,20 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 
 ### `npm run build`
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Course details
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+1h 18m
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Intermediate
 
-### `npm run eject`
+Released: 7/20/2020
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+Tracking down bugs in React—and the many different pieces it communicates with—can be a challenge. While basic JavaScript testing and debugging tools certainly work, solutions designed specifically to work with React will save you time and effort. This course covers those tools, as well as tips and techniques to help you find, diagnose, and fix problems in your apps. Watch and learn how to test React code with Jest, debug with Chrome, check type with flow, and optimize your code with ESLint. Instructor Emmanuel Henri has packaged this course with everything you need to get started, including exercise files and setup instructions, and concludes with some next steps for exploring advanced debugging in React.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+Learning objectives
+Setting up for React testing and debugging
+Testing with Jest
+Snapshot testing
+Debugging with Chrome and Chrome extensions
+Optimizing React code with ESLINT
+Type checking
